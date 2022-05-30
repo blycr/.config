@@ -1,0 +1,25 @@
+{
+    "outbounds": [
+        {
+            "mux": {
+            },
+            "protocol": "shadowsocksr",
+            "sendThrough": "0.0.0.0",
+            "settings": {
+                "address": "cm05.paofuvip.xyz",
+                "group": "泡芙云",
+                "method": "chacha20-ietf",
+                "obfs": "plain",
+                "obfs_param": "bc99844845.microsoft.com",
+                "password": "bxsnucrgk6hfish",
+                "port": 1050,
+                "protocol": "auth_aes128_sha1",
+                "protocol_param": "44845:123456",
+                "remarks": "[v1] 日本・01"
+            },
+            "streamSettings": {
+            },
+            "tag": "PROXY"
+        }
+    ]
+}

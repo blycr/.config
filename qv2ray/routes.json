@@ -1,0 +1,22 @@
+{
+    "ekrzwuldxilc": {
+        "routeConfig": {
+            "domainMatcher": "mph",
+            "domainStrategy": "AsIs",
+            "domains": {
+            },
+            "ips": {
+            }
+        }
+    },
+    "jbcsvzuuebyh": {
+        "routeConfig": {
+            "domainMatcher": "mph",
+            "domainStrategy": "AsIs",
+            "domains": {
+            },
+            "ips": {
+            }
+        }
+    }
+}
